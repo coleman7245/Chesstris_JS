@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const gameStateSchema = mongoose.Schema({
+const gameStateSchema = new mongoose.Schema({
     player_name : {Type : String, default : email},
     email : {Type : String, require : true}, 
     startTime : {Type : Number},

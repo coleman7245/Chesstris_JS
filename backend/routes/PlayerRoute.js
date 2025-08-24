@@ -1,4 +1,4 @@
-import express from 'express';
+import * as express from 'express';
 
 import { getPlayer, getPlayers, postPlayer, patchPlayer, deletePlayer } from '../controllers/player.js';
 

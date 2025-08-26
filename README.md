@@ -5,4 +5,4 @@ Notes: Indiviual chess piece images from wikicommons. Home page image from iStoc
 
 Summary:
 
-My final project for the Activate Work program is a React game that combines the flow and active gameplay of Tetris with the rules and movement of Chess. 
+My final project for the Activate Work program is a React game that combines the flow and active gameplay of Tetris with the rules and movement of Chess. The frontend is utilizes Node and React, while it's backend is utilizes MongoDB and Express. All code is written in Javascript.
